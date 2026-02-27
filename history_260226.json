@@ -1,0 +1,128 @@
+[
+    {
+        "id": "book_0",
+        "title": "Sapiens: A Brief History of Humankind",
+        "price_gbp": 54.23,
+        "price_sek": 732.1,
+        "rating": "Five"
+    },
+    {
+        "id": "book_1",
+        "title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "price_gbp": 25.52,
+        "price_sek": 344.52,
+        "rating": "One"
+    },
+    {
+        "id": "book_2",
+        "title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "price_gbp": 19.73,
+        "price_sek": 266.36,
+        "rating": "One"
+    },
+    {
+        "id": "book_3",
+        "title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "price_gbp": 36.28,
+        "price_sek": 489.78,
+        "rating": "Two"
+    },
+    {
+        "id": "book_4",
+        "title": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+        "price_gbp": 59.64,
+        "price_sek": 805.14,
+        "rating": "One"
+    },
+    {
+        "id": "book_5",
+        "title": "Zealot: The Life and Times of Jesus of Nazareth",
+        "price_gbp": 24.7,
+        "price_sek": 333.45,
+        "rating": "Three"
+    },
+    {
+        "id": "book_6",
+        "title": "A Distant Mirror: The Calamitous 14th Century",
+        "price_gbp": 14.58,
+        "price_sek": 196.83,
+        "rating": "Three"
+    },
+    {
+        "id": "book_7",
+        "title": "1491: New Revelations of the Americas Before Columbus",
+        "price_gbp": 21.8,
+        "price_sek": 294.3,
+        "rating": "Three"
+    },
+    {
+        "id": "book_8",
+        "title": "Brilliant Beacons: A History of the American Lighthouse",
+        "price_gbp": 11.45,
+        "price_sek": 154.57,
+        "rating": "Three"
+    },
+    {
+        "id": "book_9",
+        "title": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+        "price_gbp": 44.48,
+        "price_sek": 600.48,
+        "rating": "Five"
+    },
+    {
+        "id": "book_10",
+        "title": "A Short History of Nearly Everything",
+        "price_gbp": 52.4,
+        "price_sek": 707.4,
+        "rating": "Five"
+    },
+    {
+        "id": "book_11",
+        "title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+        "price_gbp": 39.67,
+        "price_sek": 535.55,
+        "rating": "Two"
+    },
+    {
+        "id": "book_12",
+        "title": "Catherine the Great: Portrait of a Woman",
+        "price_gbp": 58.55,
+        "price_sek": 790.42,
+        "rating": "Four"
+    },
+    {
+        "id": "book_13",
+        "title": "The Mathews Men: Seven Brothers and the War Against Hitler's U-boats",
+        "price_gbp": 42.91,
+        "price_sek": 579.28,
+        "rating": "Five"
+    },
+    {
+        "id": "book_14",
+        "title": "The Hiding Place",
+        "price_gbp": 55.91,
+        "price_sek": 754.78,
+        "rating": "Four"
+    },
+    {
+        "id": "book_15",
+        "title": "America's War for the Greater Middle East: A Military History",
+        "price_gbp": 51.22,
+        "price_sek": 691.47,
+        "rating": "Two"
+    },
+    {
+        "id": "book_16",
+        "title": "The Guns of August",
+        "price_gbp": 14.54,
+        "price_sek": 196.29,
+        "rating": "Two"
+    },
+    {
+        "id": "book_17",
+        "title": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+        "price_gbp": 43.7,
+        "price_sek": 589.95,
+        "rating": "Two"
+    }
+]
